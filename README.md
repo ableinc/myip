@@ -2,7 +2,9 @@
 
 Fetch your public IP address from the command line
 
-## Create binary
+## Create binary (check releases for pre-built binaries)
+
+***Requires Go version 1.23+***
 
 ```bash
 cd myip
